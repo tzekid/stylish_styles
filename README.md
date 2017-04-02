@@ -7,7 +7,7 @@
 ![Article](./hackerwebapp/hackerwebapp_post.png)
 
 ## [learnxinyminutes - dark](https://github.com/tzekid/stylish_styles/tree/master/learnxinyminutes)
-[Original version](http://userstyles.org/styles/130298) by muntoo. I added the article styles.
+[Original version](http://userstyles.org/styles/130298) by muntoo. I added some minor tweakz and fixes.
 ### Main page  
 ![Main Page](./learnxinyminutes/learnxinyminutes_main.png)
 
