@@ -1,4 +1,4 @@
-# Styles
+# Quick 'n Dirty Stylish Styles
 ## [hackernewswebapp - dark](https://github.com/tzekid/stylish_styles/tree/master/hackerwebapp)
 ### Main page  
 ![Main page](./hackerwebapp/hackerwebapp_main.png)
