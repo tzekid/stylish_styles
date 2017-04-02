@@ -1,0 +1,26 @@
+/* with <3, by tzekid */
+body { background-color: #333; }
+header { background-color: #333; }
+
+/* Home */
+.tableview { background-color: #333; }
+.tableview-links li>a { color: #eee; }
+
+/* Post */
+.view>header { background-color: #333; }
+.view>header h1 { color: #eee; }
+.view .post-content header h1 { color: #eee; }
+.view section.comments { background-color: #333; }
+.header-button:hover, .view.shaded>.scroll { background-color: #333; }
+.view section.comments p { color: #fff; }
+.view section.comments p.metadata .user { color: #ff6600; }
+.link-text { color: #999; }
+
+/* About */
+.grouped-tableview { background-color: #333; }
+#app-desc strong { color: #eee; }
+ol.grouped-tableview-links li>a, ul.grouped-tableview-links li>a {
+  color: #eee;
+}
+.view.shaded>.scroll p.foot-label { color: #999; }
+
