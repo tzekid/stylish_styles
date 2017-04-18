@@ -1,6 +1,20 @@
 /* By tzekid with <3 */
 
-/* API */
+/* Main website */
+.code_section .highlight code, .code_section .highlight pre { background-color: #262626; color: #999; }
+.highlight .n{ color: #999; }
+.highlight .o{ color: #666; }
+.highlight span.no{ color: #111; }
+.highlight .p{ color: #777; }
+.highlight .vi{ color: #8e9222; }
+.highlight span.no{ color: #4f4f4f; }
+.main #benchmark svg .label{ fill: white; }
+.main #benchmark svg .axis-name{ fill: white; }
+.main #benchmark svg .axis text{ fill:white; }
+.main .flag{ background-color: #333; }
+.main .flag h3 { background-color: #333; }
+
+/* API Section */
 body{ background: #262626; color: #aaa; border-color: #575757;}
 h1{ color: #eee; }
 h1.type-name{ background-color: #262626; color: #574273; border-color: #575757;}
@@ -30,17 +44,13 @@ p a img[alt="born-and-raised"]{
   padding-left: 600px;
   margin-top: 36px;
 }
+.s{ color: #2A5FFF; }
 
-/* Main website */
-.code_section .highlight code, .code_section .highlight pre { background-color: #262626; color: #999; }
-.highlight .n{ color: #999; }
-.highlight .o{ color: #666; }
-.highlight span.no{ color: #111; }
-.highlight .p{ color: #777; }
-.highlight .vi{ color: #8e9222; }
-.highlight span.no{ color: #4f4f4f; }
-.main #benchmark svg .label{ fill: white; }
-.main #benchmark svg .axis-name{ fill: white; }
-.main #benchmark svg .axis text{ fill:white; }
-.main .flag{ background-color: #333; }
-.main .flag h3 { background-color: #333; }
+/* Crystal Playground */
+.container{ width: 100vw; }
+#mainEditorContainer{ width: 100vw; }
+@media only screen and (min-width: 993px){ .container{ width: 100vw; margin: 0px; } }
+@media only screen and (min-width: 601px){ .container{ width: 100vw; margin: 0px; } }
+.row .col.s7{ width: 60vw; padding: 0px; }
+.row .col.s5{ width: 40vw; padding: 0px; }
+.crystal-version{ margin: 30vw; }

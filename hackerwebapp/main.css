@@ -32,3 +32,4 @@ ol.grouped-tableview-links li>a, ul.grouped-tableview-links li>a {
   color: #eee;
 }
 .view.shaded>.scroll p.foot-label { color: #999; }
+.grouped-tableview p { color: #999; }
